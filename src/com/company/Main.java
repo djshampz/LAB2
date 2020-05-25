@@ -4,7 +4,7 @@ package com.company;
     Group Members
     100994 Kimani Martin Gitau
     Alvin Moses
-
+    Kanana
  */
 public class Main{
     public static void main(String[] args) {
