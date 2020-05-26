@@ -3,8 +3,9 @@ package com.company;
 /*
     Group Members
     100994 Kimani Martin Gitau
-    Alvin Moses
- */
+    088462 Alvin Moses
+
+*/
 public class Main{
     public static void main(String[] args) {
         Sedan mySedan = new Sedan();
